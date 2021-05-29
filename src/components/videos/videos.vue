@@ -48,7 +48,7 @@
 <style scoped>
     .videos {
         width: 80%;
-        margin: 0 10%;
+        margin: 3rem 10% 0 10%  ;
         display: flex;
         flex-direction: column;
     }
